@@ -1,5 +1,8 @@
 # Hackathon-Handyhand
 
+## Objective 
+
+
 ### Our Development Environment:
 https://dev.platform.handyhand.dk
 
@@ -16,7 +19,7 @@ PASSWORD = 'Kimjungun23'
 ----------
 ### Open AI
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "xx"
 
 -----
 
